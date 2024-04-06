@@ -46,9 +46,9 @@
 | структура данных | поля структуры | функция добавления | функция извлечения |
 |------|-----|------|----|
 | стек на массивах | ![](./codes/struct_stek_array.png) | ![](./codes/add_stek_array.png) | ![](./codes/get_stek_array.png) |
-| стек на списках  | ![](./codes/struct_stek_list.png) | ![](./codes/add_stek_list.png) | ![](get_stek_list.png) |
+| стек на списках  | ![](./codes/struct_stek_list.png) | ![](./codes/add_stek_list.png) | ![](./codes/get_stek_list.png) |
 | очередь на списках| ![](./codes/struct_stek_list.png) | ![](./codes/add._queue_list.png) | ![](./codes/get_queue_list.png) |
-| очередь на массивах | ![](./codes/struct_stek_array.png) | ![](./codes/add_queue_array.png) | ![](get_queue_array.png) |
+| очередь на массивах | ![](./codes/struct_stek_array.png) | ![](./codes/add_queue_array.png) | ![](./codes/get_queue_array.png) |
 
 # Заключение
 
